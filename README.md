@@ -1,5 +1,12 @@
 # Adaptive Topological Self-Healing Conductance Law
 
+
+<!-- HERO_ANIMATION:BEGIN -->
+![Adaptive topological self-healing conductance law](images/topological_self_healing.gif)
+
+_Hero animation: **Adaptive topological self-healing conductance law**. [Download high-resolution MP4](images/topological_self_healing.mp4)._
+<!-- HERO_ANIMATION:END -->
+
 **ID:** `eq-adaptive-topological-self-healing-conductance-law`  
 **Tier:** derived  
 **Score:** 85  
